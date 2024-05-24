@@ -1,0 +1,25 @@
+#include<iostream>
+#include<string>
+using namespace std;
+string removeDuplicates(string s){
+    int i =1;
+    string arr ="";
+    arr.push_back(s[0]);
+   while(i<s.length()){
+     
+        if(arr[arr.length()-1]==s[i]){
+            arr.pop_back();
+        }
+        else{
+            arr.push_back(s[i]);
+        }
+          i++;
+     }
+    
+   return arr;
+   }
+
+int main(){
+ string s = "abbaca";
+ cout<<removeDuplicates(s);
+}

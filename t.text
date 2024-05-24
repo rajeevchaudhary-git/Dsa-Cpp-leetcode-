@@ -1,0 +1,1174 @@
+Sno	Topic	Difficulty	Link	Name																										
+																														
+1	Arrays	Easy	https://leetcode.com/problems/two-sum/	Two Sum																										
+2	Arrays	Easy	https://leetcode.com/problems/remove-duplicates-from-sorted-array/	Remove Duplicates																										
+3	Arrays	Easy	https://leetcode.com/problems/remove-element/	Remove Element																										
+4	Arrays	Easy	https://leetcode.com/problems/search-insert-position/	Seach Insert Position																										
+5	Arrays	Easy	https://leetcode.com/problems/maximum-subarray/	Sum Subarray																										
+6	Arrays	Easy	https://leetcode.com/problems/plus-one/	Plus One																										
+7	Arrays	Easy	https://leetcode.com/problems/merge-sorted-array/	Merge Sorted Array																										
+8	Arrays	Easy	https://leetcode.com/problems/pascals-triangle/	Pascal Triangle - T(n3)S(1)																										
+9	Arrays	Easy	https://leetcode.com/problems/pascals-triangle/	Pascal Triangle - T(n2)S(n2)																										
+10	Arrays	Easy	https://leetcode.com/problems/pascals-triangle/	Pascal Triangle - T(n2)S(1)																										
+11	Arrays	Easy	https://leetcode.com/problems/pascals-triangle-ii/	Kth Row Pascal Traingle																										
+12	Arrays	Easy	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/	Buy and Sell Stock																										
+13	Arrays	Easy	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/	Buy and Sell Stock 2																										
+14	Arrays	Easy	https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/	Two Sum 2																										
+15	Arrays	Easy	https://leetcode.com/problems/majority-element/	Majority Element																										
+16	Arrays	Easy	https://leetcode.com/problems/rotate-array/	Rotate Array																										
+17	Arrays	Easy	https://leetcode.com/problems/contains-duplicate/	Contains in an Array																										
+18	Arrays	Easy	https://leetcode.com/problems/contains-duplicate-ii/	Contains in an Array 2																										
+19	Arrays	Easy	https://leetcode.com/problems/missing-number/submissions/	Missing Number																										
+20	Arrays	Easy	https://leetcode.com/problems/move-zeroes/	Move Zeros																										
+21	Arrays	Easy	https://leetcode.com/problems/third-maximum-number/	Third Max Number																										
+22	Arrays	Easy	https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/	Numbers Disappeared 																										
+23	Arrays	Easy	https://leetcode.com/problems/max-consecutive-ones/	Max Consecutive Ones																										
+24	Arrays	Easy	https://leetcode.com/problems/fibonacci-number/submissions/	Fibo Upto N																										
+25	Arrays	Easy	https://leetcode.com/problems/k-diff-pairs-in-an-array/	K Diff Pair in Array																										
+26	Arrays	Easy	https://leetcode.com/problems/array-partition-i/	Array Partition I																										
+27	Arrays	Easy	https://leetcode.com/problems/reshape-the-matrix/	Reshape Matrix																										
+28	Arrays	Easy	https://leetcode.com/problems/shortest-unsorted-continuous-subarray/solution/	Shortest unsorted subarray																										
+29	Arrays	Easy	https://leetcode.com/problems/can-place-flowers/	Can Place Flowers																										
+30	Arrays	Easy	https://leetcode.com/problems/maximum-product-of-three-numbers/	Max Product of Three Numbers																										
+31	Arrays	Easy	https://leetcode.com/problems/maximum-average-subarray-i/	Max Avg Sum Subarray																										
+32	Arrays	Easy	https://leetcode.com/problems/non-decreasing-array/	Non Decreasing Array																										
+33	Arrays	Easy	https://leetcode.com/problems/longest-continuous-increasing-subsequence/	Longest Continuous Inc Subseq																										
+34	Arrays	Easy	https://leetcode.com/problems/find-pivot-index/	Find Pivot Index																										
+35	Arrays	Easy	https://leetcode.com/problems/degree-of-an-array/	Degree of Array																										
+36	Arrays	Easy	https://leetcode.com/problems/min-cost-climbing-stairs/	Min Most Climbing stairs																										
+37	Arrays	Easy	https://leetcode.com/problems/toeplitz-matrix/	Toeplitz Matrix																										
+38	Arrays	Easy	https://leetcode.com/problems/positions-of-large-groups/submissions/	 Positions of Large Groups																										
+39	Arrays	Easy	https://leetcode.com/problems/flipping-an-image/	Flipp the Image																										
+40	Arrays	Easy	https://leetcode.com/problems/transpose-matrix/	Transpose																										
+41	Arrays	Easy	https://leetcode.com/problems/fair-candy-swap/solution/	Fairy Candy																										
+42	Arrays	Easy	https://leetcode.com/problems/monotonic-array/submissions/	Monotonic																										
+43	Arrays	Easy	https://leetcode.com/problems/sort-array-by-parity/	Sort Array by Parity																										
+44	Arrays	Easy	https://leetcode.com/problems/sort-array-by-parity-ii/	Sort Array by Parity - 2																										
+45	Arrays	Easy	https://leetcode.com/problems/squares-of-a-sorted-array/	Sq of Sorted Array																										
+46	Arrays	Easy	https://leetcode.com/problems/sum-of-even-numbers-after-queries/	Sum of even number After Queries																										
+47	Arrays	Easy	https://leetcode.com/problems/valid-mountain-array/submissions/	Valid Mountain in Array																										
+48	Arrays	Easy	https://leetcode.com/problems/1-bit-and-2-bit-characters/	1 - bit and 2 - bit Character																										
+49	Arrays	Easy	https://leetcode.com/problems/largest-perimeter-triangle/	Largest Perimeter																										
+50	Arrays	Easy	https://leetcode.com/problems/image-smoother/	Image Smoother																										
+51	Arrays	Easy	https://leetcode.com/problems/add-to-array-form-of-integer/submissions/	Add 2 Array-Form																										
+52	Arrays	Easy	https://leetcode.com/problems/magic-squares-in-grid/	Magic Squares																										
+53	Arrays	Easy	https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/	X kind in a Deck of Cards																										
+54	Arrays	Easy	https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/	Song with Toal Durations																										
+55	Arrays	Easy	https://leetcode.com/problems/height-checker/	Height Checker																										
+56	Arrays	Easy	https://leetcode.com/problems/available-captures-for-rook/	Available Captures for Rook																										
+57	Arrays	Easy	https://leetcode.com/problems/binary-prefix-divisible-by-5/	Prefix div by 5																										
+58	Arrays	Easy	https://leetcode.com/problems/duplicate-zeros/	Duplocate Zeros																										
+59	Arrays	Easy	https://leetcode.com/problems/image-smoother/	Image Smoother																										
+60	Arrays	Easy	https://leetcode.com/problems/number-of-equivalent-domino-pairs/	Dominoes Pairs																										
+61	Arrays	Easy	https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/	Compare by min Freq																										
+62	Arrays	Easy	https://leetcode.com/problems/day-of-the-week/	Day of the week																										
+63	Arrays	Easy	https://leetcode.com/problems/minimum-absolute-difference/	Minimum absolute diff																										
+64	Arrays	Easy	https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/	Count odd values in matrix																										
+65	Arrays	Easy	https://leetcode.com/problems/check-if-it-is-a-straight-line/	Straight Line																										
+--------------------	--------------------	--------------------	--------------------------------------------------------------	-----------------------------------------																										
+1	Arrays	Medium	https://leetcode.com/problems/container-with-most-water/	Contained With most Water																										
+2	Arrays	Medium	https://leetcode.com/problems/3sum/	3Sum																										
+3	Arrays	Medium	https://leetcode.com/problems/3sum-closest/	3Sum Closest																										
+4	Arrays	Medium	https://leetcode.com/problems/4sum/	4Sum																										
+5	Arrays	Medium	https://leetcode.com/problems/next-permutation/	Next Permutation																										
+6	Arrays	Medium	https://leetcode.com/problems/search-in-rotated-sorted-array/	Search in Rotated Array																										
+7	Arrays	Medium	https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/	First and Last in Sorted Array																										
+8	Arrays	Medium	https://leetcode.com/problems/combination-sum/	Combination Sum																										
+9	Arrays	Medium	https://leetcode.com/problems/combination-sum-ii/	Combination Sum 2																										
+10	Arrays	Medium	https://leetcode.com/problems/rotate-image/	Rotate by 90 Degree																										
+11	Arrays	Medium	https://leetcode.com/problems/spiral-matrix/	Spiral																										
+12	Arrays	Medium	https://leetcode.com/problems/jump-game/solution/	Jump Game																										
+13	Arrays	Medium	https://leetcode.com/problems/merge-intervals/	Merge Intervals																										
+14	Arrays	Medium	https://leetcode.com/problems/unique-paths/	Unique Path																										
+15	Arrays	Medium	https://leetcode.com/problems/unique-paths-ii/	Unique Path 2																										
+16	Arrays	Medium	https://leetcode.com/problems/minimum-path-sum/	Minimum Path Sum	2d																									
+17	Arrays	Medium	https://leetcode.com/problems/set-matrix-zeroes/	Set matrix to Zero	2d																									
+18	Arrays	Medium	https://leetcode.com/problems/search-a-2d-matrix/	Search in 2-D Array	2d																									
+19	Arrays	Medium	https://leetcode.com/problems/sort-colors/	Sort Colors																										
+20	Arrays	Medium	https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/	remove Duplicates - 2																										
+21	Arrays	Medium	https://leetcode.com/problems/search-in-rotated-sorted-array-ii/	Binary Search in Rotated - 2																										
+22	Arrays	Medium	https://leetcode.com/problems/subsets-ii/	Subsets - 2																										
+23	Arrays	Medium	https://leetcode.com/problems/triangle/	Triangle																										
+24	Arrays	Medium	https://leetcode.com/problems/word-search/	Word Search																										
+25	Arrays	Medium	https://leetcode.com/problems/maximum-product-subarray/	Max Product Subarray																										
+26	Arrays	Medium	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/	Min in Rotated Array																										
+27	Arrays	Medium	https://leetcode.com/problems/find-peak-element/	Peak Element																										
+28	Arrays	Medium	https://leetcode.com/problems/combination-sum-iii/	Combination Sum 3																										
+29	Arrays	Medium	https://leetcode.com/problems/summary-ranges/	Summary Ranges																										
+30	Arrays	Medium	https://leetcode.com/problems/majority-element-ii/	Majority Element - 2																										
+31	Arrays	Medium	https://leetcode.com/problems/product-of-array-except-self/	Product of Array																										
+32	Arrays	Medium	https://leetcode.com/problems/find-the-duplicate-number/	Find Duplicate																										
+33	Arrays	Medium	https://leetcode.com/problems/find-all-duplicates-in-an-array/	Remove Duplicates in Array																										
+34	Arrays	Medium	https://leetcode.com/problems/subarray-sum-equals-k/	Subarray with K sum																										
+35	Arrays	Medium	https://leetcode.com/problems/array-nesting/	Array Nesting																										
+36	Arrays	Medium	https://leetcode.com/problems/valid-triangle-number/	Valid Triangle 																										
+37	Arrays	Medium	https://leetcode.com/problems/maximum-swap/	Max Swap																										
+38	Arrays	Medium	https://leetcode.com/problems/max-chunks-to-make-sorted/	Max Chunks																										
+39	Arrays	Medium	https://leetcode.com/problems/global-and-local-inversions/	Global and local Inv																										
+40	Arrays	Medium	https://leetcode.com/problems/number-of-matching-subsequences/	Matching Subseq																										
+41	Arrays	Medium	https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/	Subarray Bounded with Maximum																										
+42	Arrays	Medium	https://leetcode.com/problems/friends-of-appropriate-ages/	Appropriate Ages																										
+43	Arrays	Medium	https://leetcode.com/problems/image-overlap/	Image Overlap																										
+44	Arrays	Medium	https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/	Longest Fibonacci Seq																										
+45	Arrays	Medium	https://leetcode.com/problems/partition-array-into-disjoint-intervals/	Partition into Disjoint																										
+46	Arrays	Medium	https://leetcode.com/problems/maximum-sum-circular-subarray/	Max Circular Sum																										
+47	Arrays	Medium	https://leetcode.com/problems/flip-string-to-monotone-increasing/	Monotone Inc String																										
+48	Arrays	Medium	https://leetcode.com/problems/minimum-increment-to-make-array-unique/	Minimum Increment to Unique																										
+49	Arrays	Medium	https://leetcode.com/problems/reveal-cards-in-increasing-order/	Reveal cards																										
+50	Arrays	Medium	`	Array of Double Pairs																										
+51	Arrays	Medium	https://leetcode.com/problems/maximum-width-ramp/	Maximum Ramp																										
+52	Arrays	Medium	https://leetcode.com/problems/longest-turbulent-subarray/	Turbulent																										
+53	Arrays	Medium	https://leetcode.com/problems/subarray-sums-divisible-by-k/	Subarray sum Div by K																										
+54	Arrays	Medium	https://leetcode.com/problems/sum-of-subarray-minimums/	Subarray Minimums																										
+55	Arrays	Medium	https://leetcode.com/problems/insert-delete-getrandom-o1/	inset Delete getRandom																										
+56	Arrays	Medium	https://leetcode.com/problems/teemo-attacking/	Teemo Attacking																										
+57	Arrays	Medium	https://leetcode.com/problems/subarray-product-less-than-k/	Subarray Product less than K																										
+58	Arrays	Medium	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/	Stock + transaction																										
+59	Arrays	Medium	https://leetcode.com/problems/my-calendar-i/	My Calander 1																										
+60	Arrays	Medium	https://leetcode.com/problems/sum-of-subarray-minimums/	Sum of Subarray Minimums																										
+61	Arrays	Medium	https://leetcode.com/problems/subarray-sums-divisible-by-k/	Sum Divisible by k																										
+------------------------	-----------------------------	-----------------------------	----------------------------------------------------------------------	------------------------------------------------																										
+1	Arrays	Hard	https://leetcode.com/problems/first-missing-positive/	Find First Missing number																										
+2	Arrays	Hard	https://leetcode.com/problems/trapping-rain-water/	Rain Water Trapping																										
+3	Arrays	Hard	https://leetcode.com/problems/jump-game-ii/	Jump Game 2																										
+4	Arrays	Hard	https://leetcode.com/problems/largest-rectangle-in-histogram/	HistoGram																										
+5	Arrays	Hard	https://leetcode.com/problems/longest-consecutive-sequence/	Longest Consecutive Subsequences																										
+6	Arrays	Hard	https://leetcode.com/problems/insert-interval/	Insert Interval																										
+7	Arrays	Hard	https://leetcode.com/problems/maximal-rectangle/	Max Area Triangle																										
+8	Arrays	Hard	https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/	Min in Rotated Sorted - 2																										
+9	Arrays	Hard	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/	Buy and Sell Stock Price 3																										
+10	Arrays	Hard	https://leetcode.com/problems/find-k-th-smallest-pair-distance/	Kth Smallest Absolute Diff																										
+11	Arrays	Hard	https://leetcode.com/problems/max-chunks-to-make-sorted-ii/	Max Chunks To make Sorted																										
+12	Arrays	Hard	https://leetcode.com/problems/sum-of-subsequence-widths/	Subseq Width																										
+---------------------	------------------------------	-----------------------------------	---------------------------------------------------------------------	-------------------------------------------------																										
+			Two Pointers																											
+1	Two Pointers	Easy	https://leetcode.com/problems/implement-strstr/	Implement strStr																										
+2	Two Pointers	Easy	https://leetcode.com/problems/reverse-string/	Reverse String																										
+3	Two Pointers	Easy	https://leetcode.com/problems/reverse-vowels-of-a-string/	Reverse Vowels																										
+4	Two Pointers	Easy	https://leetcode.com/problems/backspace-string-compare/	BackSpace String Compare																										
+5	Two Pointers	Easy	https://leetcode.com/problems/palindrome-linked-list/	Palindrome																										
+6	Two Pointers	Easy	https://leetcode.com/problems/long-pressed-name/	Long Pressed name																										
+7	Two Pointers	Easy	https://leetcode.com/problems/valid-palindrome/	Valid Palindrome																										
+8	Two Pointers	Medium	https://leetcode.com/problems/permutation-in-string/	Permutation in String																										
+9	Two Pointers	Medium	https://leetcode.com/problems/partition-labels/	Parition Labels																										
+10	Two Pointers	Medium	https://leetcode.com/problems/most-profit-assigning-work/	Assigning Work																										
+11	Two Pointers	Medium	https://leetcode.com/problems/push-dominoes/	Push Dominos																										
+12	Two Pointers	Medium	https://leetcode.com/problems/longest-mountain-in-array/	Longest Mountain																										
+13	Two Pointers	Medium	https://leetcode.com/problems/boats-to-save-people/	Boats to Save people																										
+14	Two Pointers	Medium	https://leetcode.com/problems/fruit-into-baskets/	Fruit Basket																										
+15	Two Pointers	Medium	https://leetcode.com/problems/3sum-with-multiplicity/	3Sum Multiplicity																										
+																														
+--------------------	----------------------------	-----------------------------------------	--------------------------------------------------------------------------------	------------------------------------------------------------																										
+			Recursion																											
+1	Recursion	Easy	https://leetcode.com/problems/longest-univalue-path/	Universal Path																										
+2	Recursion	Medium	https://leetcode.com/problems/partition-to-k-equal-sum-subsets/	Partition to k Equal subsets																										
+3	Recursion	Medium	https://leetcode.com/problems/all-possible-full-binary-trees/	Full BT Construct																										
+4	Recursion	Hard	https://leetcode.com/problems/number-of-atoms/	Num of Atoms																										
+5	Recursion	Hard	https://leetcode.com/problems/special-binary-string/	Special Binary String																										
+																														
+---------------------	---------------------	-------------------------------	-------------------------------------------------------------------	-------------------------------------------																										
+			Difficult Questions																											
+1	Arrays	Medium	https://leetcode.com/problems/sum-of-subarray-minimums/	Sum of Subarray Minimums																										
+2	Arrays	Medium	https://leetcode.com/problems/image-overlap/	Image Overlap																										
+3	Arrays	Medium	https://leetcode.com/problems/subarray-sums-divisible-by-k/	Sum Divisible by k																										
+4	Arrays	Medium	https://leetcode.com/problems/circular-array-loop/	Circular Array Loop																										
+5	Arrays	Medium	https://leetcode.com/problems/task-scheduler/	Task Scheduler																										
+6	Arrays	Medium	https://leetcode.com/problems/beautiful-arrangement-ii/	Beautiful Arrangement																										
+7	Arrays	Medium	https://leetcode.com/problems/my-calendar-ii/	My calander 2																										
+8	Arrays	Medium	https://leetcode.com/problems/rle-iterator/	RLE - Iterator																										
+9	Arrays	Medium	https://leetcode.com/problems/pancake-sorting/	Pancake Flips																										
+10	Arrays	Medium	https://leetcode.com/problems/max-area-of-island/	Max Area of island																										
+11	Arrays	Hard	https://www.geeksforgeeks.org/maximum-sum-two-non-overlapping-subarrays-of-given-size/	Max-Sum-Of-Two-nonOverlapping Subarray																										
+12	Arrays	Hard	https://leetcode.com/problems/transform-to-chessboard/	Chess Board																										
+13	Arrays	Hard	https://leetcode.com/problems/sum-of-subsequence-widths/	Subseq Width																										
+14	Two Pointers	Easy	https://leetcode.com/problems/permutation-in-string/	Permutation in String																										
+15	BackTracking	Medium	https://leetcode.com/problems/gray-code/	GrayCode																										
+16	BackTracking	Medium	https://leetcode.com/problems/word-ladder-ii/	Word Ladder																										
+17	Arrays	Medium	https://leetcode.com/problems/word-search/	Word Search																										
+18	BackTracking	Medium	https://leetcode.com/problems/word-search-ii/	Word search 2																										
+19	BackTracking	Medium	https://leetcode.com/problems/add-and-search-word-data-structure-design/	Seach Word DS																										
+20	Arrays	Hard	https://leetcode.com/problems/unique-letter-string/	Unique Letter String																										
+21	DP	Medium	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/	CoolDown																										
+22	DP	Medium	https://leetcode.com/problems/can-i-win/	Can I Win																										
+23	DP	Medium	https://leetcode.com/problems/longest-arithmetic-sequence/	Longest Arithmetic Seq																										
+	Stack	Hard	https://leetcode.com/problemset/all/?status=Todo&difficulty=Hard&topicSlugs=stack	Leaved																										
+	Tree	Medium	https://leetcode.com/problems/count-complete-tree-nodes/	Lannguage																										
+																														
+																														
+																														
+---------------------	-------------------------------	--------------------------------	------------------------------------------------------------------------	--------------------------------------------------																										
+			DFS																											
+1	DFS	Medium	 https://leetcode.com/problems/subsets/	Subset																										
+2	DFS	Medium	 https://leetcode.com/problems/subsets-ii/	Subset - 2																										
+3	DFS	Medium	https://leetcode.com/problems/permutations/	Permutations																										
+4	DFS	Medium	 https://leetcode.com/problems/permutations-ii/	Permutations - 2																										
+5	DFS	Medium	 https://leetcode.com/problems/combination-sum/	Combination Sum																										
+6	DFS	Medium	 https://leetcode.com/problems/combination-sum-ii/	Combination Sum - 3																										
+7	DFS	Medium	 https://leetcode.com/problems/palindrome-partitioning/	Palindrome Partitioning																										
+8	DFS	Easy	https://leetcode.com/problems/letter-case-permutation/	Permutation Letter																										
+9	DFS	Easy	https://leetcode.com/problems/binary-watch/	Binary watch																										
+10	DFS	Medium	https://leetcode.com/problems/letter-combinations-of-a-phone-number/	Keypad Combination																										
+11	DFS	Medium	https://leetcode.com/problems/generate-parentheses/	generate Parenthesis																										
+																														
+---------------------	-------------------------------	--------------------------------	------------------------------------------------------------------------	--------------------------------------------------																										
+			BINARY SEARCH																											
+1	Binary Search	Easy	https://leetcode.com/problems/guess-number-higher-or-lower/	Guess the Number																										
+																														
+																														
+			BackTracking																											
+1	BackTracking	Medium	https://leetcode.com/problems/regular-expression-matching/	Regukar Expression																										
+2	backTracking	Hard	https://leetcode.com/problems/sudoku-solver/	Sudoku Solver																										
+3	BackTracking	hard	https://leetcode.com/problems/n-queens/	nQueens																										
+4	BackTracking	Hard	https://leetcode.com/problems/n-queens-ii/	NQueens Count																										
+5	BackTracking	Medium	https://leetcode.com/problems/permutation-sequence/	Permutation Sequence																										
+6	BackTracking	Medium	https://leetcode.com/problems/combinations/	Combinations																										
+7	BackTracking	Medium	https://leetcode.com/problems/restore-ip-addresses/	IpAddress																										
+8	BackTracking	Medium	https://leetcode.com/problems/word-break-ii/	WordBreak 2																										
+9	Extra	Medium	https://leetcode.com/problems/word-break/	Word Break																										
+10	BackTracking	Medium	https://leetcode.com/problems/gray-code/	GrayCode																										
+11	BackTracking	Medium	https://leetcode.com/problems/split-array-into-fibonacci-sequence/	Split into Fibo Seq																										
+			DP																											
+1	DP	Easy	https://leetcode.com/problems/climbing-stairs/	Climbing Stairs																										
+2	DP	Easy	https://leetcode.com/problems/house-robber/	House Robber																										
+3	DP	Easy	https://leetcode.com/problems/range-sum-query-immutable/	Sum Query 																										
+4	DP	Easy	https://leetcode.com/problems/counting-bits/	Counting Bit																										
+5	DP	Easy	https://leetcode.com/problems/ugly-number/	Ugly Numbers																										
+6	DP	Medium	https://leetcode.com/problems/stone-game/	Stone Game																										
+7	DP	Medium	https://leetcode.com/problems/minimum-falling-path-sum/	Falling Sum																										
+8	DP	Medium	https://leetcode.com/problems/palindromic-substrings/	count Palindromic Substring																										
+9	DP	Medium	https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/	Delete minimum Ascii																										
+10	DP	Medium	https://leetcode.com/problems/decode-ways/	Decode Ways																										
+11	DP	Medium	https://leetcode.com/problems/ugly-number-ii/	Ugly Numbers 2																										
+12	DP	Medium	https://leetcode.com/problems/unique-binary-search-trees/	Unique Binary Search Tree - count																										
+13	DP	Medium	https://leetcode.com/problems/unique-binary-search-trees-ii/	Unique Binary Search Tree																										
+14	DP	Medium	https://leetcode.com/problems/house-robber-ii/	House Robber - 2																										
+15	DP	Medium	https://leetcode.com/problems/maximal-square/	Maximal Square																										
+16	DP	Medium	https://leetcode.com/problems/perfect-squares/	Perfect Square																										
+17	DP	Medium	https://leetcode.com/problems/longest-increasing-subsequence/	Longest Increasing Subseq				Really Nice																						
+18	DP	Medium	https://leetcode.com/problems/range-sum-query-2d-immutable/	Sum Query - 2																										
+19	DP	Medium	https://leetcode.com/problems/integer-break/	Integer Break																										
+20	DP	Medium	https://leetcode.com/problems/count-numbers-with-unique-digits/	Count Number with Unique Digits																										
+21	DP	Medium	https://leetcode.com/problems/guess-number-higher-or-lower-ii/	Guess Number 2																										
+22	DP	Medium	https://leetcode.com/problems/wiggle-subsequence/	Wiggle Subseq																										
+23	DP	Medium	https://leetcode.com/problems/combination-sum-iv/	Combination Sum 4																										
+24	DP	Medium	https://leetcode.com/problems/partition-equal-subset-sum/	Subset Sum Partition																										
+25	DP	Medium	https://leetcode.com/problems/ones-and-zeroes/	Ones and Zeros																										
+26	DP	Medium	https://leetcode.com/problems/longest-palindromic-subsequence/	Palindromic Subseq Largest																										
+27	DP	Medium	https://leetcode.com/problems/predict-the-winner/	Predict The Winner																										
+28	DP	Medium	https://leetcode.com/problems/out-of-boundary-paths/	Boundary Paths																										
+29	DP	Medium	https://leetcode.com/problems/2-keys-keyboard/	2 Keys KeyBoard																										
+30	DP	Medium	https://leetcode.com/problems/target-sum/	Target Sum																										
+31	DP	Medium	https://leetcode.com/problems/delete-and-earn/	Delete and Earn																										
+32	DP	Medium	https://leetcode.com/problems/minimum-cost-for-tickets/	Minimum cost for Tickets																										
+33	DP	Medium	https://leetcode.com/problems/numbers-with-same-consecutive-differences/	Maximum Diff Consequtive																										
+34	DP	Medium	https://leetcode.com/problems/knight-dialer/	Knight Dialer																										
+35	DP	Medium	https://leetcode.com/problems/largest-sum-of-averages/	Sum of Averages																										
+36	DP	Medium	https://leetcode.com/problems/is-subsequence/	Is Subsequences																										
+37	DP	Medium	https://leetcode.com/problems/arithmetic-slices/	Arithmetic Slices																										
+38	DP	Medium	https://leetcode.com/problems/largest-divisible-subset/	Largest Divisible Subset																										
+39	DP	Medium	https://leetcode.com/problems/continuous-subarray-sum/	Cont Sub Sum % K																										
+40	DP	Medium	https://leetcode.com/problems/number-of-longest-increasing-subsequence/	Number of Longest Inc Subseq																										
+41	DP	Medium	https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/	Minimum Swaps to make Seq Incre																										
+42	DP	Medium	https://leetcode.com/problems/largest-plus-sign/	Largest Plus Sign																										
+43	DP	Medium	https://leetcode.com/problems/can-i-win/	Can i win 																										
+44	DP	Medium	https://leetcode.com/problems/partition-array-for-maximum-sum/	Partition array for Max Sum																										
+45	DP	Medium	https://leetcode.com/problems/sentence-screen-fitting/	Sentence Screen Fitting																										
+46	DP	Medium	https://leetcode.com/problems/wiggle-subsequence/	Wiggle Subseq																										
+47	DP	Medium	https://leetcode.com/problems/longest-happy-string/	Longest Happy String																										
+48	DP	Medium	https://leetcode.com/problems/longest-arithmetic-sequence/	Longest arithmetic Seq																										
+49	DP	Medium	https://leetcode.com/problems/minimum-cost-for-tickets/	Minimum cost for Tickets																										
+50	DP	Medium	https://leetcode.com/problems/knight-probability-in-chessboard/	Knight Probability																										
+51	DP	Medium	https://leetcode.com/problems/k-concatenation-maximum-sum/	k Concatenation max Sum																										
+52	DP	Medium	https://leetcode.com/problems/maximum-length-of-pair-chain/	Maximum Length of pair																										
+53	DP	Medium	https://leetcode.com/problems/new-21-game/	New 21 Game																										
+54	DP	Medium	https://leetcode.com/problems/dice-roll-simulation/	Dice roll Simulation																										
+55	DP	Medium	https://leetcode.com/problems/shortest-way-to-form-string/	Shortest way to Form String																										
+56	DP	Medium	https://leetcode.com/problems/minimize-rounding-error-to-meet-target/	Minmize rounding Error																										
+57	DP	Medium	https://leetcode.com/problems/shopping-offers/	Shopping Offers																										
+58	DP	Medium	https://leetcode.com/problems/4-keys-keyboard/	4 Keys Keyboard																										
+59	DP	Medium	https://leetcode.com/problems/number-of-longest-increasing-subsequence/	No of LIS 																										
+60	DP	Medium	https://leetcode.com/problems/number-of-corner-rectangles/	No of corner rect																										
+61	DP	Medium	https://leetcode.com/problems/delete-tree-nodes/	Delete Tree nodes																										
+																														
+																														
+																														
+																														
+1	DP	Hard	https://leetcode.com/problems/palindrome-partitioning-ii/	Palindromic Partition 2																										
+2	DP	Hard	https://leetcode.com/problems/wildcard-matching/	Wild card Matching																										
+3	DP	Hard	https://leetcode.com/problems/edit-distance/	Edit Distance																										
+4	DP	Hard	https://leetcode.com/problems/super-egg-drop/	Egg Drop																										
+5	DP	Hard	https://leetcode.com/problems/longest-valid-parentheses/	Valid Parenthesis																										
+6	DP	Hard	https://leetcode.com/problems/scramble-string/	Scrambles String																										
+7	DP	Hard	https://leetcode.com/problems/dungeon-game/	Dungeon Game																										
+																														
+			Divide and Conquer																											
+1	DC	Easy 	https://leetcode.com/problems/maximum-subarray/	Subarray Sum																										
+2	DC	Easy 	https://leetcode.com/problems/majority-element/	Majority Element																										
+3	DC	Medium	https://leetcode.com/problems/kth-largest-element-in-an-array/	Kth Largest																										
+4	DC	Medium	https://leetcode.com/problems/search-a-2d-matrix-ii/	Search in 2D Matrix																										
+5	DC	Medium	https://leetcode.com/problems/different-ways-to-add-parentheses/	Different ways to add Parenthesis																										
+6	DC	Hard	https://leetcode.com/problems/median-of-two-sorted-arrays/	Medium of Two sorted Arrays																										
+7	DC	Hard	https://leetcode.com/problems/merge-k-sorted-lists/	Merge K sorted Lists																										
+																														
+			Stack																											
+1	Stack	Easy	https://leetcode.com/problems/baseball-game/	Base Ball Game																										
+2	Stack	Easy	https://leetcode.com/problems/remove-outermost-parentheses/	Remove Outer Parenthesis																										
+3	Stack	Easy	https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/	Remove Adjacent elements																										
+4	Stack	Medium	https://leetcode.com/problems/binary-tree-preorder-traversal/	PreOrder																										
+5	Stack	Medium	https://leetcode.com/problems/evaluate-reverse-polish-notation/	Reverse Polish Notation																										
+6	Stack	Medium	https://leetcode.com/problems/binary-search-tree-iterator/	Binary Search Tree Iterator																										
+7	Stack	Medium	https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/	Verify Preorder																										
+8	Stack	Medium	https://leetcode.com/problems/decode-string/	Decode String																										
+9	Stack	Medium	https://leetcode.com/problems/remove-k-digits/	Remove k Digits																										
+10	Stack	Medium	https://leetcode.com/problems/132-pattern/	132 Pattern																										
+11	Stack	Medium	https://leetcode.com/problems/next-greater-element-ii/	Next greater 2																										
+12	Stack	Medium	https://leetcode.com/problems/exclusive-time-of-functions/	Exclusive Time																										
+13	Stack	Medium	https://leetcode.com/problems/asteroid-collision/	Asteroid Collision																										
+14	Stack	Medium	https://leetcode.com/problems/daily-temperatures/	Daily Temperature																										
+15	Stack	Medium	https://leetcode.com/problems/car-fleet/	Car Fleet																										
+16	Stack	Medium	https://leetcode.com/problems/score-of-parentheses/	Score of Parenthesis																										
+17	Stack	Medium	https://leetcode.com/problems/decoded-string-at-index/	Decode at String																										
+18	Stack	Medium	https://leetcode.com/problems/online-stock-span/	Online Stock Span																										
+19	Stack	Medium	https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/	Make Valid Parenthesis																										
+20	Stack	Medium	https://leetcode.com/problems/validate-stack-sequences/	Validate Stack Sequence																										
+21	Stack	Medium	https://leetcode.com/problems/next-greater-node-in-linked-list/	Next Greater Node																										
+22	Stack	Hard	https://leetcode.com/problems/binary-tree-postorder-traversal/	Post Order Traversal																										
+23	Stack	Hard	https://leetcode.com/problems/basic-calculator/	Calculator																										
+24	Stack	Hard	https://leetcode.com/problems/maximum-frequency-stack/	Maximum Freq Stack																										
+																														
+			Queue																											
+1	Queue	Easy	https://leetcode.com/problems/number-of-recent-calls/	Number of Recent calls																										
+2	Queue	Medium	https://leetcode.com/problems/design-circular-deque/	Implement Circular Deque																										
+3	Queue	Medium	https://leetcode.com/problems/design-circular-queue/	Circular Queue																										
+4	Queue	Medium	https://leetcode.com/problems/task-scheduler/	Task Scheduler																										
+5	Queue	Hard	https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/	Subarray sum atleast K																										
+																														
+			Linked List																											
+1	LL	Easy	https://leetcode.com/problems/merge-two-sorted-lists/	Merge Two Sorted Arrays																										
+2	LL	Easy	https://leetcode.com/problems/remove-duplicates-from-sorted-list/	Remove Duplicates from Sorted																										
+3	LL	Easy	https://leetcode.com/problems/linked-list-cycle/	Loop Detect																										
+4	LL	Easy	https://leetcode.com/problems/remove-linked-list-elements/	Remove LinkedList Elements																										
+5	LL	Easy	https://leetcode.com/problems/reverse-linked-list/	Reverse LinkedList																										
+6	LL	Easy	https://leetcode.com/problems/delete-node-in-a-linked-list/	Delete a Node																										
+7	LL	Easy	https://leetcode.com/problems/design-linked-list/	Design a LL																										
+8	LL	Easy	https://leetcode.com/problems/middle-of-the-linked-list/	Middle of Node																										
+9	LL	Easy	https://leetcode.com/problems/intersection-of-two-linked-lists/	InterSection of Two LinkedList																										
+10	LL	Medium	https://leetcode.com/problems/remove-nth-node-from-end-of-list/	Nth node from Last																										
+11	LL	Medium	https://leetcode.com/problems/swap-nodes-in-pairs/	Swap Nodes																										
+12	LL	Medium	https://leetcode.com/problems/rotate-list/	Rotate List																										
+13	LL	Medium	https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/	Remove Duplicates 2																										
+14	LL	Medium	https://leetcode.com/problems/partition-list/	Parition List																										
+15	LL	Medium	https://leetcode.com/problems/reverse-linked-list-ii/	Reverse Linked List																										
+16	LL	Medium	https://leetcode.com/problems/reorder-list/	Reorder List																										
+17	LL	Medium	https://leetcode.com/problems/insertion-sort-list/	Insertion Sort																										
+18	LL	Medium	https://leetcode.com/problems/sort-list/	Sort List																										
+19	LL	Medium	https://leetcode.com/problems/odd-even-linked-list/	Odd Even List																										
+20	LL	Medium	https://leetcode.com/problems/add-two-numbers-ii/	Add Two Numbers																										
+21	LL	HARD	https://leetcode.com/problems/reverse-nodes-in-k-group/	Reverse K Groups																										
+22	LL	Medium	https://leetcode.com/problems/split-linked-list-in-parts/	Split Linked List in Parts																										
+23	LL	Medium	https://leetcode.com/problems/merge-k-sorted-lists/	Merge K sorted Lists																										
+24	LL	Medium	https://leetcode.com/problems/linked-list-components/	Components																										
+			Trees																											
+1	BT	Easy	https://leetcode.com/problems/same-tree/	Is Same																										
+2	BT	Easy	https://leetcode.com/problems/symmetric-tree/	Symmetric Tree																										
+3	BT	Easy	https://leetcode.com/problems/maximum-depth-of-binary-tree/	Depth of Binary Tree																										
+4	BT	Easy	https://leetcode.com/problems/binary-tree-level-order-traversal-ii/	Level Order 2																										
+5	BST	Easy	https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/	Construct BST from sorted Array																										
+6	BT	Easy	https://leetcode.com/problems/balanced-binary-tree/	Balanced Binary Tree																										
+7	BT	Easy	https://leetcode.com/problems/minimum-depth-of-binary-tree/	Minimum Depth																										
+8	BT	Easy	https://leetcode.com/problems/path-sum/	Path Sum																										
+9	BST	Easy	https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/	Lowest Common Ancestor																										
+10	BT	Easy	https://leetcode.com/problems/binary-tree-paths/	All root to leaf Paths																										
+11	GT	Easy	https://leetcode.com/problems/n-ary-tree-level-order-traversal/	Level Order 																										
+12	BT	Easy	https://leetcode.com/problems/invert-binary-tree/	Invert the Binary Tree																										
+13	BT	Easy	https://leetcode.com/problems/path-sum-iii/	Path Sum 3																										
+14	BT	Easy	https://leetcode.com/problems/sum-of-left-leaves/	Sum of left online																										
+15	BST	Easy	https://leetcode.com/problems/convert-bst-to-greater-tree/	Convert to Greater																										
+16	BT	Easy	https://leetcode.com/problems/diameter-of-binary-tree/	Diameter of Tree																										
+17	GT	Easy	https://leetcode.com/problems/maximum-depth-of-n-ary-tree/	Depth of GT																										
+18	GT	Easy	https://leetcode.com/problems/n-ary-tree-preorder-traversal/	Preorder GT																										
+19	GT	Easy	https://leetcode.com/problems/n-ary-tree-postorder-traversal/	Post Order																										
+20	BST	Easy	https://leetcode.com/problems/find-mode-in-binary-search-tree/	Find modes in BST																										
+21	BST	Easy	https://leetcode.com/problems/minimum-absolute-difference-in-bst/	Minimum Absolute Diff																										
+22	BT	Easy	https://leetcode.com/problems/binary-tree-tilt/	Tilt BT																										
+23	BT	Easy	https://leetcode.com/problems/subtree-of-another-tree/	Is SubTree																										
+24	BT	Easy	https://leetcode.com/problems/construct-string-from-binary-tree/	Construct String from Binary Tree																										
+25	BT	Easy	https://leetcode.com/problems/average-of-levels-in-binary-tree/	Average Levels in Binary Tree																										
+26	BST	Easy	https://leetcode.com/problems/two-sum-iv-input-is-a-bst/	Two Sum - iv																										
+27	BT	Easy	https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/	Minimum Node in BT																										
+28	BT	Easy	https://leetcode.com/problems/longest-univalue-path/	Universal Path																										
+29	BT	Easy	https://leetcode.com/problems/search-in-a-binary-search-tree/	Search in BST																										
+30	BST	Easy	https://leetcode.com/problems/minimum-distance-between-bst-nodes/	Min Difference																										
+31	BT	Easy	https://leetcode.com/problems/leaf-similar-trees/	Similar Trees																										
+32	BST	Easy	https://leetcode.com/problems/increasing-order-search-tree/	Increasing Order Search																										
+33	BT	Easy	https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/	Sum of Root to Leaf Binary																										
+34	BT	Easy	https://leetcode.com/problems/univalued-binary-tree/	IsUnivariant																										
+35	BST	Easy	https://leetcode.com/problems/range-sum-of-bst/	Range Sum of BST																										
+36	BT	Easy	https://leetcode.com/problems/cousins-in-binary-tree/	Cousins																										
+37	BT	Easy	https://leetcode.com/problems/flatten-binary-tree-to-linked-list/	Flatten																										
+38	BT	Easy	https://leetcode.com/problems/populating-next-right-pointers-in-each-node/	Populate Next Pointer																										
+39	BT	Easy	https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/	Next Right Node Pointer																										
+40	BT	Easy	https://leetcode.com/problems/sum-root-to-leaf-numbers/	Root to Leaf Numbers																										
+41	BT	Easy	https://leetcode.com/problems/binary-tree-right-side-view/	Right Side View																										
+42	BST	Medium	https://leetcode.com/problems/kth-smallest-element-in-a-bst/	Kth Smallest in BST																										
+43	BT	Medium	https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/	Lowest Common Ancestor																										
+44	BST	Medium	https://leetcode.com/problems/delete-node-in-a-bst/	Remove Nodes in BST																										
+45	BT	Medium	https://leetcode.com/problems/find-bottom-left-tree-value/	Find Bottom Left Tree																										
+46	BT	Medium	https://leetcode.com/problems/find-largest-value-in-each-tree-row/	Find Largest Value in Levels																										
+47	BT	Medium	https://leetcode.com/problems/count-complete-tree-nodes/	Count Nodes																										
+48	BT	Medium	https://leetcode.com/problems/house-robber-iii/	House Robber 3																										
+49	BT	Medium	https://leetcode.com/problems/most-frequent-subtree-sum/	Frequent SubTree Sum																										
+50	BT	Medium	https://leetcode.com/problems/add-one-row-to-tree/	Add One to Row																										
+51	BST	Medium	https://leetcode.com/problems/insert-into-a-binary-search-tree/	Insert Into Binary Search Tree																										
+52	BT	Medium	https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/	Construct - pre and post																										
+53	BT	Medium	https://leetcode.com/problems/binary-tree-pruning/	Tree Pruning																										
+54	BT	Medium	https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/	All nodes at distance K																										
+55	BT	Medium	https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/	Smallest Subtree with Deepst Node																										
+56	BT	Medium	https://leetcode.com/problems/complete-binary-tree-inserter/	Complete Binary Tree Inserter																										
+57	BT	Medium	https://leetcode.com/problems/flip-equivalent-binary-trees/	Flip Equivalent																										
+58	BT	Medium	https://leetcode.com/problems/check-completeness-of-a-binary-tree/	Check Complete Binary Tree																										
+59	BT	Medium	https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/	BST from Preorder																										
+60	BT	Medium	https://leetcode.com/problems/smallest-string-starting-from-leaf/	Smallest String from Root																										
+61	BT	Medium	https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/	Vertical Order Print																										
+62	BT	Medium	https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/	Maximum Difference Between Ancestors																										
+63	BT	Medium	https://leetcode.com/problems/maximum-binary-tree/	Construct Max BT																										
+64	BT	Medium	https://leetcode.com/problems/maximum-binary-tree-ii/	Maximum Binary Tree																										
+65	BT	Medium	https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/	Flip to match Preorder																										
+66	BT	Medium	https://leetcode.com/problems/maximum-width-of-binary-tree/	Maximum Width																										
+67	BT	Medium	https://leetcode.com/problems/distribute-coins-in-binary-tree/	Distribute Coins																										
+68	BT	Medium	https://leetcode.com/problems/redundant-connection/	Redundant Connection																										
+69	BT 	Medium	https://leetcode.com/problems/find-duplicate-subtrees/	Duplicate Subtree																										
+70	BST	Hard	https://leetcode.com/problems/recover-binary-search-tree/	Recover Binary Search Tree																										
+71	BT	Hard	https://leetcode.com/problems/sum-of-distances-in-tree/	Sum of distances in Tree																										
+72	BT	Hard	https://leetcode.com/problems/binary-tree-maximum-path-sum/	Maximum Path Sum																										
+73	BT	Hard	https://leetcode.com/problems/binary-tree-postorder-traversal/	Post Order Traversal																										
+																														
+			HASHMAP																											
+1	HM	Easy	https://leetcode.com/problems/find-common-characters/	FInd Common Characters																										
+2	HM	Easy	https://leetcode.com/problems/occurrences-after-bigram/	Occurences after Bigrams																										
+3	HM	Easy	https://leetcode.com/problems/happy-number/	Happy Number																										
+4	HM	Easy	https://leetcode.com/problems/valid-anagram/	Valid Anagram																										
+5	HM	Easy	https://leetcode.com/problems/first-unique-character-in-a-string/	First Unique Character																										
+6	HM	Easy	https://leetcode.com/problems/intersection-of-two-arrays-ii/	Intersection 2																										
+7	HM	Easy	https://leetcode.com/problems/intersection-of-two-arrays/	Intersection 2																										
+8	HM	Easy	https://leetcode.com/problems/longest-palindrome/	Longest Palindrome																										
+9	HM	Easy	https://leetcode.com/problems/number-of-boomerangs/	Boomerangs																										
+10	HM	Easy	https://leetcode.com/problems/keyboard-row/	Keyboard Row																										
+11	HM	Easy	https://leetcode.com/problems/distribute-candies/	Distribute Candies																										
+12	HM	Easy	https://leetcode.com/problems/minimum-index-sum-of-two-lists/	Minimum Index Sum of Two Strings																										
+13	HM	Easy	https://leetcode.com/problems/set-mismatch/	Set MisMatch																										
+14	HM	Easy	https://leetcode.com/problems/longest-harmonious-subsequence/	Longest Harmonious Subseq																										
+15	HM	Easy	https://leetcode.com/problems/design-hashset/	Design HashSet																										
+16	HM	Easy	https://leetcode.com/problems/design-hashmap/	Design HashMap																										
+17	HM	Easy	https://leetcode.com/problems/longest-word-in-dictionary/	Longest Word in Dictionary																										
+18	HM	Easy	https://leetcode.com/problems/jewels-and-stones/	Jewels and the Stones																										
+19	HM	Easy	https://leetcode.com/problems/uncommon-words-from-two-sentences/	Uncommon Words																										
+20	HM	Easy	https://leetcode.com/problems/n-repeated-element-in-size-2n-array/	N Repeated Element																										
+21	HM	Easy	https://leetcode.com/problems/powerful-integers/	PowerFul Integers																										
+22	HM	Easy	https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/	Good Words																										
+23	HM	Easy	https://leetcode.com/problems/subdomain-visit-count/	Subdomain visit																										
+24	HM	Easy	https://leetcode.com/problems/verifying-an-alien-dictionary/	Verifying Alien Dict																										
+25	HM	Easy	https://leetcode.com/problems/shortest-completing-word/	Shortest Completing Word																										
+26	HM	Easy	https://leetcode.com/problems/employee-importance/	Employee Importance																										
+26	HM	Medium	https://leetcode.com/problems/valid-sudoku/	Valid Sudoku																										
+27	HM	Medium	https://leetcode.com/problems/fraction-to-recurring-decimal/	Fraction to Recurring Decimal																										
+28	HM	Medium	https://leetcode.com/problems/group-anagrams/	Group Anagrams																										
+29	HM	Medium	https://leetcode.com/problems/h-index/	H Index																										
+30	HM	Medium	https://leetcode.com/problems/bulls-and-cows/	Bulls and Cows																										
+31	HM	Medium	https://leetcode.com/problems/4sum-ii/	4 Sum 2																										
+32	HM	Medium	https://leetcode.com/problems/contiguous-array/	Equal number of Zeros and Ones																										
+33	HM	Medium	https://leetcode.com/problems/encode-and-decode-tinyurl/	Encode and Decode																										
+34	HM	Medium	https://leetcode.com/problems/brick-wall/	Brick Wall																										
+35	HM	Medium	https://leetcode.com/problems/replace-words/	Replace Words																										
+36	HM	Medium	https://leetcode.com/problems/subarray-sums-divisible-by-k/	Subarray Sums Divisible by K																										
+37	HM	Medium	https://leetcode.com/problems/time-based-key-value-store/	Time Based Key Value																										
+38	HM	Medium	https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/	FLip Columns for Max 1 in Row																										
+39	HM	Medium	https://leetcode.com/problems/longest-string-chain/	Longest String Chain																										
+40	HM	Medium	https://leetcode.com/problems/implement-magic-dictionary/	Magic Dictionary																										
+41	HM	Medium	https://leetcode.com/problems/binary-subarrays-with-sum/	Subarrays With Sum																										
+42	HM	Medium	https://leetcode.com/problems/minimum-area-rectangle/	Minimum Area Rectangle																										
+43	HM	Medium	https://leetcode.com/problems/prison-cells-after-n-days/	Prison after n Days																										
+44	HM	Medium	https://leetcode.com/problems/minimum-window-substring/	Minimum Window SubString																										
+45	HM	Medium	https://leetcode.com/problems/largest-values-from-labels/	Largest values from Labels																										
+46	HM	Medium	https://leetcode.com/problems/rabbits-in-forest/	Rabbit in Forest																										
+47	HM	Medium	https://leetcode.com/problems/longest-string-chain/	Longest String Chain																										
+48	HM	Medium	https://leetcode.com/problems/find-all-anagrams-in-a-string/	Find all Anagrams																										
+49	HM	Medium	https://leetcode.com/problems/longest-substring-without-repeating-characters/	Longest Substring wihout duplicate																										
+50	HM	Medium	https://leetcode.com/problems/repeated-dna-sequences/	Repeated DNA sequence																										
+51	HM	Medium	https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/	Smallest range Covering k elements																										
+52	HM	Medium	https://leetcode.com/problems/number-of-atoms/	No of Atoms																										
+45	HM	Hard	https://leetcode.com/problems/substring-with-concatenation-of-all-words/	Substring with Concatenation																										
+46	HM	Hard	https://leetcode.com/problems/sudoku-solver/	Sudoku																										
+47	HM	Hard	https://leetcode.com/problems/maximal-rectangle/	Maximal Rectangle																										
+48	HM	Hard	https://leetcode.com/problems/max-points-on-a-line/	Max Points on a Line																										
+49	HM	Hard	https://leetcode.com/problems/random-pick-with-blacklist/	Random Pick																										
+50	HM	Hard	https://leetcode.com/problems/subarrays-with-k-different-integers/	Subarray with K diff elements																										
+			HEAP																											
+1	Heap	Easy	https://leetcode.com/problems/kth-largest-element-in-a-stream/	Kth Largest in a Stream																										
+2	Heap	Easy	https://leetcode.com/problems/last-stone-weight/	Last Stone Weight																										
+3	Heap	Medium	https://leetcode.com/problems/distant-barcodes/	Barcodes																										
+4	Heap	Medium	https://leetcode.com/problems/k-closest-points-to-origin/	K Closest Points to Origin																										
+5	Heap	Medium	https://leetcode.com/problems/cheapest-flights-within-k-stops/	Cheapest Flights within min stops																										
+6	Heap	Medium	https://leetcode.com/problems/reorganize-string/	Reorganize String																										
+7	Heap	Medium	https://leetcode.com/problems/network-delay-time/	Network Delay																										
+8	Heap	Medium	https://leetcode.com/problems/top-k-frequent-words/	TopKFrequentWords																										
+9	Heap	Medium	https://leetcode.com/problems/sort-characters-by-frequency/	Sort by Characters																										
+10	Heap	Medium	https://leetcode.com/problems/top-k-frequent-elements/	Top K Frequent Elements																										
+11	Heap	Medium	https://leetcode.com/problems/find-k-pairs-with-smallest-sums/	K Pairs with Smallest Sum																										
+12	Heap	Medium	https://leetcode.com/problems/super-ugly-number/	Super Ugly Number																										
+13	Heap	Hard	https://leetcode.com/problems/the-skyline-problem/	SkyLine Problem																										
+14	Heap	Hard	https://leetcode.com/problems/sliding-window-maximum/	Sliding Window Maximum																										
+15	BM	Easy	https://leetcode.com/problems/single-number/	Single Number																										
+16	BM	Easy	https://leetcode.com/problems/reverse-bits/	Reverse Bits																										
+17	BM	Easy	https://leetcode.com/problems/number-of-1-bits/	Number of 1 bits																										
+18	BM	Easy	https://leetcode.com/problems/power-of-two/	is Power of Two ?																										
+19	BM	Easy	https://leetcode.com/problems/missing-number/	Missing Number																										
+20	BM	Easy	https://leetcode.com/problems/power-of-four/	Power of Four																										
+21	BM	Easy	https://leetcode.com/problems/sum-of-two-integers/	Sum of two Digits																										
+22	BM	Easy	https://leetcode.com/problems/find-the-difference/	Find the Difference																										
+23	BM	Easy	https://leetcode.com/problems/convert-a-number-to-hexadecimal/	Convert to Hexadecimal																										
+24	BM	Easy	https://leetcode.com/problems/hamming-distance/	Hamming Distance																										
+25	BM	Easy	https://leetcode.com/problems/number-complement/	NUmbers Complement																										
+26	BM	Easy	https://leetcode.com/problems/binary-number-with-alternating-bits/	Binary number with Alternate bits																										
+27	BM	Easy	https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/	Number of Prime set Bits																										
+28	BM	Easy	https://leetcode.com/problems/letter-case-permutation/	Letter Case Permutation																										
+29	BM	Medium	https://leetcode.com/problems/single-number-ii/	Single Number 2																										
+30	BM	Medium	https://leetcode.com/problems/subsets/	Subsets																										
+																														
+			Greedy																											
+1	Greedy	Easy	https://leetcode.com/problems/assign-cookies/	Assign Cookies																										
+2	Greedy	Easy	https://leetcode.com/problems/lemonade-change/	Lemonade Change																										
+3	Greedy	Easy	https://leetcode.com/problems/walking-robot-simulation/	Walking Robot Simulation																										
+4	Greedy	Easy	https://leetcode.com/problems/two-city-scheduling/	Two City Scheduling																										
+5	Greedy	Easy	https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/	Sum of Array After k Negotiations																										
+6	Greedy	Easy	https://leetcode.com/problems/delete-columns-to-make-sorted/	Delete Columns to Make Sorted																										
+7	Greedy	Medium	https://leetcode.com/problems/gas-station/	Gas Station																										
+8	Greedy	Medium	https://leetcode.com/problems/is-subsequence/	is Subsequences																										
+9	Greedy	Medium	https://leetcode.com/problems/remove-k-digits/	Remove K Digits																										
+10	Greedy	Medium	https://leetcode.com/problems/queue-reconstruction-by-height/	Reconstruction by Height																										
+11	Greedy	Medium	https://leetcode.com/problems/non-overlapping-intervals/	OverLapping Inervals																										
+12	Greedy	Medium	https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/	Minimum Number of Arrows																										
+13	Greedy	Medium	https://leetcode.com/problems/task-scheduler/	Task Scheduler																										
+14	Greedy	Medium	https://leetcode.com/problems/split-array-into-consecutive-subsequences/	Split Array into Consequent subseq																										
+15	Greedy	Medium	https://leetcode.com/problems/car-pooling/	CarPooling																										
+16	Greedy	Medium	https://leetcode.com/problems/monotone-increasing-digits/	Monotone Increasing Digits																										
+17	Greedy	Medium	https://leetcode.com/problems/score-after-flipping-matrix/	Max Score After Flipping																										
+18	Greedy	Medium	https://leetcode.com/problems/bag-of-tokens/	Bag of Tokens																										
+																														
+																														
+																														
+																														
+			ChocoLate Question																											
+1	Math	Medium	https://www.interviewbit.com/problems/sorted-permutation-rank/	Sorted Permutation Rank																										
+2	DC, Stack, Bit	Medium	https://leetcode.com/problems/score-of-parentheses/	Score of Parenthesis																										
+			https://www.interviewbit.com/problems/sorted-permutation-rank-with-repeats/	Sorted Permutation Rank 2																										
+																														
+			Interview Question Bank																											
+1			https://leetcode.com/problems/string-to-integer-atoi/	ATOI																										
+2			https://leetcode.com/problems/roman-to-integer/	Roman to Integer																										
+			https://leetcode.com/problems/longest-common-prefix/	Longest common Prefix																										
+			https://leetcode.com/problems/powx-n/	Power																										
+			https://leetcode.com/problems/sqrtx/	Square root																										
+			https://leetcode.com/problems/factorial-trailing-zeroes/	Zeros in Factorial																										
+																														
+			Graph																											
+1	Graph	Easy	https://leetcode.com/problems/find-the-town-judge/	Town Judge																										
+2	Graph	Medium	https://leetcode.com/problems/minimum-height-trees/	Min Height Trees																										
+3	Graph	Medium	https://leetcode.com/problems/reconstruct-itinerary/	Reconstruct Iineray																										
+4	Graph	Medium	https://leetcode.com/problems/sequence-reconstruction/	Sequence Reconstruction																										
+5	Graph	Medium	https://leetcode.com/problems/course-schedule-iv/	Course Schedule - 4																										
+6	Graph	Medium	https://leetcode.com/problems/evaluate-division/	Evaluate Division																										
+7	Graph	Medium	https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/	Smallest no of neighbors with value																										
+8	Graph	Medium	https://leetcode.com/problems/jump-game-iii/	Jump Game 3																										
+9	Graph	Medium	https://leetcode.com/problems/validate-binary-tree-nodes/	Validate binary Tree																										
+10	Graph	Medium	https://leetcode.com/problems/shortest-path-with-alternating-colors/	Shortest path with alternating color																										
+11	Graph	Medium	https://leetcode.com/problems/as-far-from-land-as-possible/	as Far as land possible																										
+12	Graph	Medium	https://leetcode.com/problems/satisfiability-of-equality-equations/	Satisfiability of Equality																										
+13	Graph	Medium	https://leetcode.com/problems/keys-and-rooms/	Keys and Rooms																										
+14	Graph	Medium	https://leetcode.com/problems/find-eventual-safe-states/	Find eventual save states																										
+15	Graph	Medium	https://leetcode.com/problems/network-delay-time/	Network delay Time																										
+16	Graph	Medium	https://leetcode.com/problems/all-paths-from-source-lead-to-destination/	All paths from src to dst																										
+			Strings																											
+1	Strings	Easy	https://leetcode.com/problems/add-binary/	Add Binary																										
+2	Strings	Easy	https://leetcode.com/problems/longest-uncommon-subsequence-i/	Longest Uncommon String																										
+3	Strings	Easy	https://leetcode.com/problems/reverse-string-ii/	Reverse Strings - 2																										
+4	Strings	Easy	https://leetcode.com/problems/student-attendance-record-i/	Student Attendance Record																										
+5	Strings	Easy	https://leetcode.com/problems/valid-palindrome-ii/	Valid Palindrome																										
+6	Strings	Easy	https://leetcode.com/problems/repeated-string-match/	Repeated String Match																										
+7	Strings	Easy	https://leetcode.com/problems/unique-email-addresses/	Unique Email Address																										
+8	Strings	Easy	https://leetcode.com/problems/greatest-common-divisor-of-strings/	GCD of Two Strings																										
+9	Strings	Easy	https://leetcode.com/problems/defanging-an-ip-address/	Defanging ip Address																										
+10	Strings	Easy	https://leetcode.com/problems/count-binary-substrings/	Count Binary Strings																										
+11	Strings	Easy	https://leetcode.com/problems/unique-morse-code-words/	Morse Code																										
+12	Strings	Easy	https://leetcode.com/problems/most-common-word/	Common Words																										
+13	Strings	Easy	https://leetcode.com/problems/goat-latin/	Goat latin																										
+14	Strings	Easy	https://leetcode.com/problems/reverse-only-letters/	Reverse only Letters																										
+15	Strings	Easy	https://leetcode.com/problems/count-and-say/	Count and Say																										
+16	Strings	Easy	https://leetcode.com/problems/length-of-last-word/	Length of last Word																										
+17	Strings	Easy	https://leetcode.com/problems/valid-palindrome/	Valid Palindrome																										
+18	Strings	Easy	https://leetcode.com/problems/ransom-note/	Ransom Note																										
+19	Strings	Easy	https://leetcode.com/problems/number-of-segments-in-a-string/	Segments																										
+20	Strings	Easy	https://leetcode.com/problems/string-compression/	String Compression																										
+21	Strings	Easy	https://leetcode.com/problems/detect-capital/	Detect Capital																										
+22	Strings	Medium	https://leetcode.com/problems/delete-operation-for-two-strings/	Delete for Two Strings																										
+23	Strings	Medium	https://leetcode.com/problems/custom-sort-string/	Custom Sort																										
+24	Strings	Medium	https://leetcode.com/problems/shifting-letters/	Shifting Letters																										
+25	Strings	Medium	https://leetcode.com/problems/word-subsets/	Word Subsets																										
+26	Strings	Medium	https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/	Smallest Subseq																										
+27	Strings	Medium	https://leetcode.com/problems/vowel-spellchecker/	Spell Checker																										
+28	Strings	Medium	https://leetcode.com/problems/alphabet-board-path/	Alphabet board Path																										
+29	Strings	Medium	https://leetcode.com/problems/reverse-words-in-a-string/	Reverse Word in String																										
+30	Strings	Medium	https://leetcode.com/problems/next-greater-element-iii/	Next Greater 3																										
+31	Strings	Medium	https://leetcode.com/problems/basic-calculator-ii/	Basic Calculator 2																										
+32	Strings	Medium	https://leetcode.com/problems/zigzag-conversion/	Zig Zag Conversion																										
+33	Strings	Medium	https://leetcode.com/problems/remove-comments/	Remove Commands																										
+34	Strings	Medium	https://leetcode.com/problems/validate-ip-address/	Validate Ip Addresses																										
+35	Strings	Medium	https://leetcode.com/problems/simplify-path/	Simplify Path																										
+36	Strings	Medium	https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/	Binary Strings with Representation																										
+37	Strings	Medium	https://leetcode.com/problems/camelcase-matching/	CamelCase Matching																										
+38	Strings	Medium	https://leetcode.com/problems/integer-to-roman/	Integer to Roman																										
+39	Strings	Medium	https://leetcode.com/problems/complex-number-multiplication/	Complex Number Multiplication																										
+40	Strings	Medium	https://leetcode.com/problems/minimum-time-difference/	Minimum Time Difference																										
+41	Strings	Medium	https://leetcode.com/problems/find-and-replace-pattern/	Find and Replace Pattern																										
+42	Strings	Medium	https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/	Check if Word is Valid																										
+43	Strings	Medium	https://leetcode.com/problems/optimal-division/	Optimal Division																										
+44	Strings	Medium	https://leetcode.com/problems/ambiguous-coordinates/	Ambiguous Coordinates																										
+45	Strings	Medium	https://leetcode.com/problems/masking-personal-information/	Masking Personal Info																										
+46	Strings	Medium	https://leetcode.com/problems/find-and-replace-in-string/	Find and Replace Pattern																										
+47	Strings	Medium	https://leetcode.com/problems/find-duplicate-file-in-system/	Find Duplicate																										
+48	Strings	Hard	https://leetcode.com/problems/valid-number/	Valid Number																										
+49	Strings	Hard	https://leetcode.com/problems/interleaving-string/	Interleaving Strings																										
+50	Strings	Hard	https://leetcode.com/problems/distinct-subsequences/	Distinct Subsequence																										
+																														
+																														
+			Binary Search																											
+1	BS	Easy	https://leetcode.com/problems/valid-perfect-square/	Valid Perfect Square																										
+2	BS	Easy	https://leetcode.com/problems/arranging-coins/	Arranging Coins																										
+3	BS	Easy	https://leetcode.com/problems/binary-search/	Binary Search																										
+4	BS	Easy	https://leetcode.com/problems/find-smallest-letter-greater-than-target/	Find Smallest Letter																										
+5	BS	Easy	https://leetcode.com/problems/guess-number-higher-or-lower/	Guess number or Higher																										
+6	BS	Easy	https://leetcode.com/problems/peak-index-in-a-mountain-array/	Peak index in Mountain array																										
+7	BS	Easy	https://leetcode.com/problems/first-bad-version/	First Bad Version																										
+8	BS	Easy	https://leetcode.com/problems/h-index-ii/	H - Index 2																										
+9	BS	Easy	https://leetcode.com/problems/find-k-closest-elements/	Find K closest Elements																										
+10	BS	Easy	https://leetcode.com/problems/koko-eating-bananas/	Koko Eating Bananas																										
+11	BS	Easy	https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/	Maximum Nesting Deptth																										
+12	BS	Hard	https://leetcode.com/problems/count-of-smaller-numbers-after-self/	Count of Smaller Number																										
+13	BS	Hard	https://leetcode.com/problems/count-of-range-sum/	Count of RangeSum																										
+14	BS	Hard	https://leetcode.com/problems/russian-doll-envelopes/	Russian Doll																										
+15	BS	Hard	https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/	Max sum of rectangles																										
+16	BS	Hard	https://leetcode.com/problems/split-array-largest-sum/	Split array Sum less than K																										
+17	BS	Hard	https://leetcode.com/problems/reverse-pairs/	Reverse Pairs																										
+18	BS	Hard	https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/	Preimage Using Trainling Zeros																										
+																														
+			Sort																											
+1	Sort	Easy	https://leetcode.com/problems/relative-sort-array/	Relative Sort																										
+2	Sort	Easy	https://leetcode.com/problems/matrix-cells-in-distance-order/	Matrix cells in distance																										
+3	Sort	Easy	https://leetcode.com/problems/largest-number/	Largest Number																										
+4	Sort	Medium	https://leetcode.com/problems/contains-duplicate-iii/	Containks Dupliacte 3																										
+5	Sort	Hard	https://leetcode.com/problems/maximum-gap/	Maximam Gap																										
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+																														
+https://github.com/varunu28/InterviewBit-Java-Solutions/tree/master/Math/Problems																														
