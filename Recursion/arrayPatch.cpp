@@ -13,7 +13,7 @@ int patching(vector<int> nums, int n){
             added++;
         }
     }
-    return added,miss;
+    return added;
 
 }
 int main(){
