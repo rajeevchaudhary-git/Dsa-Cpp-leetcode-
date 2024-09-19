@@ -493,35 +493,58 @@ Node* kthNodeFormEnd(Node* &head,int k){
   return temp;
 }
 
+
+int gcd(int a, int b) 
+{ 
+    // Find Minimum of a and b 
+    int result = min(a, b); 
+    while (result > 0) { 
+        if (a % result == 0 && b % result == 0) { 
+            break; 
+        } 
+        result--; 
+    } 
+  
+    // Return gcd of a and b 
+    return result; 
+} 
+
 int main()
 {
-   Node* head = new Node(10);
-    Node* second = new Node(20);
-    Node* third = new Node(24);
-    Node* fourth = new Node(50);
-    Node* fifth = new Node(30);
-    Node* sixth = new Node(17);
-    Node* seventh = new Node(15);
-    Node* eighth = new Node(24);
-    Node* ninth = new Node(3);
+   Node* head = new Node(7);
+    // Node* second = new Node(6);
+    // Node* third = new Node(10);
+    // Node* fourth = new Node(3);
+   
 
-  head->next = second;
-  second->next = third;
-  third->next = fourth;
-  fourth->next =  fifth;
-  fifth->next = sixth;
-  sixth->next = seventh;
-  seventh->next = eighth;
-  eighth->next = ninth;
-  ninth->next = nullptr;
+  head->next = nullptr;
+  // second->next = third;
+  // third->next = fourth;
+  // fourth->next = nullptr;
+
+
+
+ Node*newhead = head;
+ Node* temp = head->next;
+ while(temp!=nullptr){
+   Node* newnode = new Node(gcd(newhead->data,temp->data));
+   newhead->next = newnode;
+   newnode->next = temp;
+   temp=temp->next;
+   newhead= newhead->next->next;
+ }
+
+  print(head);
+
+
 
 // head = nullptr;
 // head = sortcolors2(head);
-print(head);
-cout<<endl;
-int k =3;
-Node* kthNode = kthNodeFormEnd(head, k);
-cout<<kthNode->data;
+// print(head);
+// cout<<endl;
+// int k =3;
+// Node* kthNode = kthNodeFormEnd(head, k);
+// cout<<kthNode->data;
 
 
 
