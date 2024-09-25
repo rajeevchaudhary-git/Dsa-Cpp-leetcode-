@@ -46,9 +46,5 @@ int main(){
     int el = q.front();q.pop();
     q.push(el);
   }
-    
-
     print(q);
-
-    
 }
