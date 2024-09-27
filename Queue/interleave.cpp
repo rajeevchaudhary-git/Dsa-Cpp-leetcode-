@@ -20,6 +20,7 @@ int main(){
     q.push(70);
     q.push(80);
     q.push(90);
+    
     // temporary queue
       queue<int> temp;
     int n = q.size();

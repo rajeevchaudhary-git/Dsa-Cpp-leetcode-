@@ -11,6 +11,7 @@
         "bitset": "cpp",
         "regex": "cpp",
         "valarray": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "deque": "cpp"
     }
 }
