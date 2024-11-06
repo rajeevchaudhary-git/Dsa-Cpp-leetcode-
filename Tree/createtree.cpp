@@ -174,6 +174,23 @@ void PreorderTraversal(node* &root){
     }
 }
 
+void printleft(node* root ){
+    if(root==nullptr){
+        return;
+    }
+
+    cout<<root->data<<" ";
+    if(root->left)
+    printleft(root->left);
+
+    if(!root->left)
+    printleft(root->right);
+
+    cout<<root->data<<" ";
+
+
+}
+
 
 int main()
 {
@@ -184,10 +201,11 @@ int main()
 // 1 3 5 7 11 17 -1 -1 -1 -1 -1 -1 -1
 // bulidTreeFromLevelOrder(root);
 // inorderIt(root);
-// inorder(root);
-    root = bluidtree(root);
-PreorderTraversal(root);
 
+root = bluidtree(root);
+// PreorderTraversal(root);
+
+printleft(root);
     // printing tree by level order traversal
     // leveloderTraversal(root);
 
