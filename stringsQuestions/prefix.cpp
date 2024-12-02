@@ -23,12 +23,12 @@ for(int i=0;i<sentence.size();i++){
 
 // int sindex = st.find(searchWord);
 
-for(int i=0;i<st.size();i++){
-  int sindex = st[i].find(searchWord);
-  if(sindex!=string::npos && st[i].size()>searchWord.size()){
-    cout<<i<<" ";
-  }
- 
-}
+ for (int i = 0; i < st.size(); i++) {
+            if (st[i].substr(0, searchWord.size()) ==
+                searchWord) { // yeah  asure karega ki zero se start ho
+                              // search word
+                cout<< i + 1;
+            }
+        }
 }
 
