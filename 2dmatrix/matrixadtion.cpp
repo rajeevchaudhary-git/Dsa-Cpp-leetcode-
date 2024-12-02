@@ -15,18 +15,16 @@ int numstobeadded=0;
 int row = matrix1.size();
 int col = matrix1[0].size();
  
-for(int j =0;j<col;j++){  // row vise traversal 
+for(int j =0;j<col;j++){  
 for(int i=0;i<row;i++){
     int temp = matrix1[i][j];
-    // cout<<temp<<" ";
+  
     if(temp>=numstobeadded){
         numstobeadded = temp;
-        // cout<<"value recived here is "<<numstobeadded<<" ";
-        // cout<<numstobeadded<<" ";
+      
     }
 }
-// cout<<endl;
-//  cout<<"value recived here is "<<numstobeadded<<" ";
+
 ans.push_back(numstobeadded);
 numstobeadded = 0;
 }
@@ -35,5 +33,5 @@ for(int i=0;i<ans.size();i++){
    sum+=ans[i];
 }
 
-cout<<sum;
+cout<<"sum of 2d array is "<<sum;
 }
